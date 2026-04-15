@@ -11,11 +11,13 @@ public class PlayerController : MonoBehaviour
     //Pull our input so that we can see what our input values are. 
 
     private Rigidbody2D rb;
+    private SpriteRenderer sr;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -25,11 +27,19 @@ public class PlayerController : MonoBehaviour
         bool jumpInput = Input.GetButtonDown("Jump");
         // Move our player horizontally based on the horz input value.
         rb.linearVelocityX = horizontalInput * moveSpeed;
+        if (horizontalInput > 0.01f)
+        {
+            sr.flipX = false;
+        }
+        else if (horizontalInput < -0.01f)
+        {
+            sr.flipX = true;
+        }
         // Jump logic
         if (jumpInput)
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
-        
+
     }
 }
