@@ -550,543 +550,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P_Idle1
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 1567
-        width: 26
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 781e99ad64035fe30800000000000000
-      internalID: 4536585280519004551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle2
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 1567
-        width: 26
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78c2b72b2e25d7e00800000000000000
-      internalID: 1044081822230326407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle3
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 1567
-        width: 26
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8cd3304724a9d4c50800000000000000
-      internalID: 6651141834900979144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle4
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 1567
-        width: 25
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd649f5e086c9ad10800000000000000
-      internalID: 2137457755080443611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle5
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 1567
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea8a8282336951dd0800000000000000
-      internalID: -2515939670355302226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle6
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 1567
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80810840aa267f750800000000000000
-      internalID: 6338643482906728456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle7
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 1567
-        width: 24
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97c2e58f62386c640800000000000000
-      internalID: 5099907831442582649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle8
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 1567
-        width: 26
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb21f2c2a3c46d3d0800000000000000
-      internalID: -3182272273957580097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim1
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 1513
-        width: 39
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f038bf420c2ac24e0800000000000000
-      internalID: -2005048787948829937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim2
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 1513
-        width: 39
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 915f9668f70de5610800000000000000
-      internalID: 1611954962779731225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim3
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 1513
-        width: 38
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c396735d4d144700800000000000000
-      internalID: 523575674631787457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim4
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 1513
-        width: 37
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 768298e8c7db27520800000000000000
-      internalID: 2698427469413296231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim5
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 1513
-        width: 37
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b60ddee4b1600460800000000000000
-      internalID: 7205866833522263734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim6
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 1513
-        width: 37
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3d807f1c7b81f860800000000000000
-      internalID: 7561978614551448890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim7
-      rect:
-        serializedVersion: 2
-        x: 453
-        y: 1513
-        width: 37
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7117b1b33121f7390800000000000000
-      internalID: -7818510554286558953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Idle_Aim8
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 1513
-        width: 39
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 822a5230413ba7180800000000000000
-      internalID: -9116777597124632024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run1
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 1459
-        width: 23
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdde6146d45a2df50800000000000000
-      internalID: 6904762930522680795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run2
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 1459
-        width: 24
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3e46dcaab8632dc0800000000000000
-      internalID: -3664970520776520134
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run3
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 1464
-        width: 26
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 578e76d1115e217a0800000000000000
-      internalID: -6407807458124240779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run4
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 1460
-        width: 26
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67151d74978d6a920800000000000000
-      internalID: 3001324217096556918
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run5
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 1459
-        width: 26
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e069aee433425680800000000000000
-      internalID: -8767871629915496216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run6
-      rect:
-        serializedVersion: 2
-        x: 376
-        y: 1459
-        width: 26
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0b4dcb03552ff750800000000000000
-      internalID: 6340827838971464458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run7
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 1459
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afd766d0e46d3c2a0800000000000000
-      internalID: -6718290588386034182
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P_Run8
-      rect:
-        serializedVersion: 2
-        x: 523
-        y: 1460
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2202d99a1580e3c0800000000000000
-      internalID: -4332316492234096086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: BH-CrosBow_24
       rect:
         serializedVersion: 2
-        x: 13
-        y: 1405
-        width: 37
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,12 +575,12 @@ TextureImporter:
       name: BH-CrosBow_25
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1405
-        width: 37
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1125,12 +597,12 @@ TextureImporter:
       name: BH-CrosBow_26
       rect:
         serializedVersion: 2
-        x: 156
-        y: 1410
-        width: 40
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,12 +619,12 @@ TextureImporter:
       name: BH-CrosBow_27
       rect:
         serializedVersion: 2
-        x: 230
-        y: 1406
-        width: 39
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1169,12 +641,12 @@ TextureImporter:
       name: BH-CrosBow_28
       rect:
         serializedVersion: 2
-        x: 303
-        y: 1405
-        width: 40
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1191,12 +663,12 @@ TextureImporter:
       name: BH-CrosBow_29
       rect:
         serializedVersion: 2
-        x: 376
-        y: 1405
-        width: 39
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1213,12 +685,12 @@ TextureImporter:
       name: BH-CrosBow_30
       rect:
         serializedVersion: 2
-        x: 450
-        y: 1410
-        width: 39
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1235,12 +707,12 @@ TextureImporter:
       name: BH-CrosBow_31
       rect:
         serializedVersion: 2
-        x: 523
-        y: 1406
-        width: 39
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 511
+        y: 1404
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1254,15 +726,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_32
+      name: P_Jump1
       rect:
         serializedVersion: 2
-        x: 15
-        y: 1352
-        width: 23
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1350
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1276,15 +748,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_33
+      name: P_Jump2
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1358
-        width: 24
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1350
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1298,15 +770,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_34
+      name: P_Jump3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1358
-        width: 24
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1350
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1320,15 +792,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_35
+      name: P_Jump4
       rect:
         serializedVersion: 2
-        x: 233
-        y: 1358
-        width: 24
-        height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 1350
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1342,15 +814,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_36
+      name: P_Fall1
       rect:
         serializedVersion: 2
-        x: 12
-        y: 1299
-        width: 28
-        height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1296
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1364,15 +836,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_37
+      name: P_Fall2
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1299
-        width: 28
-        height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1296
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1386,15 +858,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_38
+      name: P_Fall3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 1299
-        width: 28
-        height: 39
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1296
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1411,12 +883,12 @@ TextureImporter:
       name: BH-CrosBow_39
       rect:
         serializedVersion: 2
-        x: 15
-        y: 1243
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1242
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1433,12 +905,12 @@ TextureImporter:
       name: BH-CrosBow_40
       rect:
         serializedVersion: 2
-        x: 88
-        y: 1243
-        width: 24
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1242
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1455,12 +927,12 @@ TextureImporter:
       name: BH-CrosBow_41
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1243
-        width: 25
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1242
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1477,12 +949,12 @@ TextureImporter:
       name: BH-CrosBow_42
       rect:
         serializedVersion: 2
-        x: 15
-        y: 1192
-        width: 25
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1188
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1499,12 +971,12 @@ TextureImporter:
       name: BH-CrosBow_43
       rect:
         serializedVersion: 2
-        x: 88
-        y: 1191
-        width: 24
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1188
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1521,12 +993,12 @@ TextureImporter:
       name: BH-CrosBow_44
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1190
-        width: 25
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1188
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1543,12 +1015,12 @@ TextureImporter:
       name: BH-CrosBow_45
       rect:
         serializedVersion: 2
-        x: 14
-        y: 1136
-        width: 25
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1134
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1565,12 +1037,12 @@ TextureImporter:
       name: BH-CrosBow_46
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1136
-        width: 25
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1134
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1587,12 +1059,12 @@ TextureImporter:
       name: BH-CrosBow_47
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1136
-        width: 24
-        height: 41
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1134
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1609,12 +1081,12 @@ TextureImporter:
       name: BH-CrosBow_48
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1082
-        width: 27
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1631,12 +1103,12 @@ TextureImporter:
       name: BH-CrosBow_49
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1108
-        width: 12
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1653,12 +1125,12 @@ TextureImporter:
       name: BH-CrosBow_50
       rect:
         serializedVersion: 2
-        x: 154
-        y: 1106
-        width: 15
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1675,12 +1147,12 @@ TextureImporter:
       name: BH-CrosBow_51
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1085
-        width: 30
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1697,12 +1169,12 @@ TextureImporter:
       name: BH-CrosBow_52
       rect:
         serializedVersion: 2
-        x: 151
-        y: 1081
-        width: 28
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1719,12 +1191,12 @@ TextureImporter:
       name: BH-CrosBow_53
       rect:
         serializedVersion: 2
-        x: 224
-        y: 1081
-        width: 35
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1741,12 +1213,12 @@ TextureImporter:
       name: BH-CrosBow_54
       rect:
         serializedVersion: 2
-        x: 225
-        y: 1093
-        width: 15
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 1080
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1763,12 +1235,12 @@ TextureImporter:
       name: BH-CrosBow_55
       rect:
         serializedVersion: 2
-        x: 297
-        y: 1081
-        width: 39
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1026
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1785,12 +1257,12 @@ TextureImporter:
       name: BH-CrosBow_56
       rect:
         serializedVersion: 2
-        x: 370
-        y: 1081
-        width: 38
-        height: 10
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1026
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1807,12 +1279,12 @@ TextureImporter:
       name: BH-CrosBow_57
       rect:
         serializedVersion: 2
-        x: 443
-        y: 1081
-        width: 39
-        height: 9
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1026
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1829,12 +1301,12 @@ TextureImporter:
       name: BH-CrosBow_58
       rect:
         serializedVersion: 2
-        x: 14
-        y: 1034
-        width: 36
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 972
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1851,12 +1323,12 @@ TextureImporter:
       name: BH-CrosBow_59
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1034
-        width: 34
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 972
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1873,12 +1345,12 @@ TextureImporter:
       name: BH-CrosBow_60
       rect:
         serializedVersion: 2
-        x: 160
-        y: 1034
-        width: 35
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 972
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1895,12 +1367,12 @@ TextureImporter:
       name: BH-CrosBow_61
       rect:
         serializedVersion: 2
-        x: 12
-        y: 975
-        width: 39
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 918
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1917,12 +1389,12 @@ TextureImporter:
       name: BH-CrosBow_62
       rect:
         serializedVersion: 2
-        x: 85
-        y: 975
-        width: 37
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 918
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1939,12 +1411,12 @@ TextureImporter:
       name: BH-CrosBow_63
       rect:
         serializedVersion: 2
-        x: 158
-        y: 975
-        width: 38
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 918
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1961,12 +1433,12 @@ TextureImporter:
       name: BH-CrosBow_64
       rect:
         serializedVersion: 2
-        x: 14
-        y: 926
-        width: 38
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 864
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1983,12 +1455,12 @@ TextureImporter:
       name: BH-CrosBow_65
       rect:
         serializedVersion: 2
-        x: 87
-        y: 926
-        width: 38
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 864
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2005,12 +1477,12 @@ TextureImporter:
       name: BH-CrosBow_66
       rect:
         serializedVersion: 2
-        x: 160
-        y: 926
-        width: 38
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 864
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2027,12 +1499,12 @@ TextureImporter:
       name: BH-CrosBow_67
       rect:
         serializedVersion: 2
-        x: 12
-        y: 867
-        width: 41
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 810
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2049,12 +1521,12 @@ TextureImporter:
       name: BH-CrosBow_68
       rect:
         serializedVersion: 2
-        x: 85
-        y: 867
-        width: 41
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 810
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2071,12 +1543,12 @@ TextureImporter:
       name: BH-CrosBow_69
       rect:
         serializedVersion: 2
-        x: 158
-        y: 867
-        width: 41
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 810
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2093,12 +1565,12 @@ TextureImporter:
       name: BH-CrosBow_70
       rect:
         serializedVersion: 2
-        x: 15
-        y: 811
-        width: 34
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 756
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2115,12 +1587,12 @@ TextureImporter:
       name: BH-CrosBow_71
       rect:
         serializedVersion: 2
-        x: 88
-        y: 811
-        width: 33
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 756
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2137,12 +1609,12 @@ TextureImporter:
       name: BH-CrosBow_72
       rect:
         serializedVersion: 2
-        x: 161
-        y: 811
-        width: 35
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 756
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2159,12 +1631,12 @@ TextureImporter:
       name: BH-CrosBow_73
       rect:
         serializedVersion: 2
-        x: 16
-        y: 757
-        width: 37
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 702
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2181,12 +1653,12 @@ TextureImporter:
       name: BH-CrosBow_74
       rect:
         serializedVersion: 2
-        x: 90
-        y: 757
-        width: 35
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 702
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2203,12 +1675,12 @@ TextureImporter:
       name: BH-CrosBow_75
       rect:
         serializedVersion: 2
-        x: 163
-        y: 757
-        width: 36
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 702
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2225,12 +1697,12 @@ TextureImporter:
       name: BH-CrosBow_76
       rect:
         serializedVersion: 2
-        x: 16
-        y: 703
-        width: 26
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 702
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2247,12 +1719,12 @@ TextureImporter:
       name: BH-CrosBow_77
       rect:
         serializedVersion: 2
-        x: 90
-        y: 703
-        width: 26
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 702
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2269,12 +1741,12 @@ TextureImporter:
       name: BH-CrosBow_78
       rect:
         serializedVersion: 2
-        x: 163
-        y: 703
-        width: 26
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 648
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2291,12 +1763,12 @@ TextureImporter:
       name: BH-CrosBow_79
       rect:
         serializedVersion: 2
-        x: 236
-        y: 703
-        width: 26
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 648
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2313,12 +1785,12 @@ TextureImporter:
       name: BH-CrosBow_80
       rect:
         serializedVersion: 2
-        x: 309
-        y: 703
-        width: 26
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 648
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2335,12 +1807,12 @@ TextureImporter:
       name: BH-CrosBow_81
       rect:
         serializedVersion: 2
-        x: 16
-        y: 649
-        width: 39
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 648
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2357,12 +1829,12 @@ TextureImporter:
       name: BH-CrosBow_82
       rect:
         serializedVersion: 2
-        x: 90
-        y: 649
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 648
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2379,12 +1851,12 @@ TextureImporter:
       name: BH-CrosBow_83
       rect:
         serializedVersion: 2
-        x: 163
-        y: 649
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2401,12 +1873,12 @@ TextureImporter:
       name: BH-CrosBow_84
       rect:
         serializedVersion: 2
-        x: 236
-        y: 649
-        width: 39
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2423,12 +1895,12 @@ TextureImporter:
       name: BH-CrosBow_85
       rect:
         serializedVersion: 2
-        x: 309
-        y: 649
-        width: 39
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2445,12 +1917,12 @@ TextureImporter:
       name: BH-CrosBow_86
       rect:
         serializedVersion: 2
-        x: 18
-        y: 598
-        width: 28
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2467,12 +1939,12 @@ TextureImporter:
       name: BH-CrosBow_87
       rect:
         serializedVersion: 2
-        x: 92
-        y: 596
-        width: 28
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2489,12 +1961,12 @@ TextureImporter:
       name: BH-CrosBow_88
       rect:
         serializedVersion: 2
-        x: 165
-        y: 596
-        width: 28
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2511,12 +1983,12 @@ TextureImporter:
       name: BH-CrosBow_89
       rect:
         serializedVersion: 2
-        x: 238
-        y: 596
-        width: 28
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 594
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2533,12 +2005,12 @@ TextureImporter:
       name: BH-CrosBow_90
       rect:
         serializedVersion: 2
-        x: 307
-        y: 595
-        width: 25
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 540
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2555,12 +2027,12 @@ TextureImporter:
       name: BH-CrosBow_91
       rect:
         serializedVersion: 2
-        x: 378
-        y: 595
-        width: 27
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 540
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2577,12 +2049,12 @@ TextureImporter:
       name: BH-CrosBow_92
       rect:
         serializedVersion: 2
-        x: 453
-        y: 595
-        width: 25
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 540
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2599,12 +2071,12 @@ TextureImporter:
       name: BH-CrosBow_93
       rect:
         serializedVersion: 2
-        x: 19
-        y: 541
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 486
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2621,12 +2093,12 @@ TextureImporter:
       name: BH-CrosBow_94
       rect:
         serializedVersion: 2
-        x: 92
-        y: 541
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 486
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2643,12 +2115,12 @@ TextureImporter:
       name: BH-CrosBow_95
       rect:
         serializedVersion: 2
-        x: 165
-        y: 541
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 486
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2665,12 +2137,12 @@ TextureImporter:
       name: BH-CrosBow_96
       rect:
         serializedVersion: 2
-        x: 21
-        y: 487
-        width: 15
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 486
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2687,12 +2159,12 @@ TextureImporter:
       name: BH-CrosBow_97
       rect:
         serializedVersion: 2
-        x: 94
-        y: 487
-        width: 15
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 432
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2709,12 +2181,12 @@ TextureImporter:
       name: BH-CrosBow_98
       rect:
         serializedVersion: 2
-        x: 167
-        y: 487
-        width: 15
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 432
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2731,12 +2203,12 @@ TextureImporter:
       name: BH-CrosBow_99
       rect:
         serializedVersion: 2
-        x: 240
-        y: 487
-        width: 15
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 432
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2753,12 +2225,12 @@ TextureImporter:
       name: BH-CrosBow_100
       rect:
         serializedVersion: 2
-        x: 14
-        y: 434
-        width: 20
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 378
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2775,12 +2247,12 @@ TextureImporter:
       name: BH-CrosBow_101
       rect:
         serializedVersion: 2
-        x: 91
-        y: 433
-        width: 24
-        height: 28
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 378
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2797,12 +2269,12 @@ TextureImporter:
       name: BH-CrosBow_102
       rect:
         serializedVersion: 2
-        x: 162
-        y: 433
-        width: 26
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 378
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2819,12 +2291,12 @@ TextureImporter:
       name: BH-CrosBow_103
       rect:
         serializedVersion: 2
-        x: 14
-        y: 379
-        width: 33
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 378
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2841,12 +2313,12 @@ TextureImporter:
       name: BH-CrosBow_104
       rect:
         serializedVersion: 2
-        x: 87
-        y: 379
-        width: 33
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2863,12 +2335,12 @@ TextureImporter:
       name: BH-CrosBow_105
       rect:
         serializedVersion: 2
-        x: 160
-        y: 379
-        width: 33
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2885,12 +2357,12 @@ TextureImporter:
       name: BH-CrosBow_106
       rect:
         serializedVersion: 2
-        x: 237
-        y: 379
-        width: 24
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2907,12 +2379,12 @@ TextureImporter:
       name: BH-CrosBow_107
       rect:
         serializedVersion: 2
-        x: 12
-        y: 328
-        width: 46
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2929,12 +2401,12 @@ TextureImporter:
       name: BH-CrosBow_108
       rect:
         serializedVersion: 2
-        x: 86
-        y: 325
-        width: 28
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2951,12 +2423,12 @@ TextureImporter:
       name: BH-CrosBow_109
       rect:
         serializedVersion: 2
-        x: 163
-        y: 325
-        width: 21
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2973,12 +2445,12 @@ TextureImporter:
       name: BH-CrosBow_110
       rect:
         serializedVersion: 2
-        x: 239
-        y: 325
-        width: 22
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 324
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2995,12 +2467,12 @@ TextureImporter:
       name: BH-CrosBow_111
       rect:
         serializedVersion: 2
-        x: 309
-        y: 325
-        width: 22
-        height: 20
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3017,12 +2489,12 @@ TextureImporter:
       name: BH-CrosBow_112
       rect:
         serializedVersion: 2
-        x: 382
-        y: 325
-        width: 26
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3039,12 +2511,12 @@ TextureImporter:
       name: BH-CrosBow_113
       rect:
         serializedVersion: 2
-        x: 454
-        y: 325
-        width: 26
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3061,12 +2533,12 @@ TextureImporter:
       name: BH-CrosBow_114
       rect:
         serializedVersion: 2
-        x: 18
-        y: 276
-        width: 22
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3083,12 +2555,12 @@ TextureImporter:
       name: BH-CrosBow_115
       rect:
         serializedVersion: 2
-        x: 91
-        y: 273
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3105,12 +2577,12 @@ TextureImporter:
       name: BH-CrosBow_116
       rect:
         serializedVersion: 2
-        x: 163
-        y: 272
-        width: 22
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3127,12 +2599,12 @@ TextureImporter:
       name: BH-CrosBow_117
       rect:
         serializedVersion: 2
-        x: 236
-        y: 277
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3149,12 +2621,12 @@ TextureImporter:
       name: BH-CrosBow_118
       rect:
         serializedVersion: 2
-        x: 310
-        y: 276
-        width: 22
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 511
+        y: 270
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3171,12 +2643,12 @@ TextureImporter:
       name: BH-CrosBow_119
       rect:
         serializedVersion: 2
-        x: 383
-        y: 273
-        width: 22
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3193,12 +2665,12 @@ TextureImporter:
       name: BH-CrosBow_120
       rect:
         serializedVersion: 2
-        x: 456
-        y: 272
-        width: 23
-        height: 38
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3215,12 +2687,12 @@ TextureImporter:
       name: BH-CrosBow_121
       rect:
         serializedVersion: 2
-        x: 529
-        y: 277
-        width: 23
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3237,12 +2709,12 @@ TextureImporter:
       name: BH-CrosBow_122
       rect:
         serializedVersion: 2
-        x: 13
-        y: 217
-        width: 28
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3259,12 +2731,12 @@ TextureImporter:
       name: BH-CrosBow_123
       rect:
         serializedVersion: 2
-        x: 87
-        y: 217
-        width: 26
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3281,12 +2753,12 @@ TextureImporter:
       name: BH-CrosBow_124
       rect:
         serializedVersion: 2
-        x: 161
-        y: 217
-        width: 27
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3303,12 +2775,12 @@ TextureImporter:
       name: BH-CrosBow_125
       rect:
         serializedVersion: 2
-        x: 235
-        y: 217
-        width: 56
-        height: 52
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3325,12 +2797,12 @@ TextureImporter:
       name: BH-CrosBow_126
       rect:
         serializedVersion: 2
-        x: 302
-        y: 217
-        width: 47
-        height: 51
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 511
+        y: 216
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3347,12 +2819,12 @@ TextureImporter:
       name: BH-CrosBow_127
       rect:
         serializedVersion: 2
-        x: 371
-        y: 217
-        width: 39
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3369,12 +2841,12 @@ TextureImporter:
       name: BH-CrosBow_128
       rect:
         serializedVersion: 2
-        x: 448
-        y: 217
-        width: 35
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3391,12 +2863,12 @@ TextureImporter:
       name: BH-CrosBow_129
       rect:
         serializedVersion: 2
-        x: 520
-        y: 217
-        width: 36
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3413,12 +2885,12 @@ TextureImporter:
       name: BH-CrosBow_130
       rect:
         serializedVersion: 2
-        x: 19
-        y: 163
-        width: 36
-        height: 40
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3435,12 +2907,12 @@ TextureImporter:
       name: BH-CrosBow_131
       rect:
         serializedVersion: 2
-        x: 78
-        y: 168
-        width: 50
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3457,12 +2929,12 @@ TextureImporter:
       name: BH-CrosBow_132
       rect:
         serializedVersion: 2
-        x: 153
-        y: 168
-        width: 36
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 162
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3479,12 +2951,12 @@ TextureImporter:
       name: BH-CrosBow_133
       rect:
         serializedVersion: 2
-        x: 225
-        y: 165
-        width: 37
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3501,12 +2973,12 @@ TextureImporter:
       name: BH-CrosBow_134
       rect:
         serializedVersion: 2
-        x: 306
-        y: 163
-        width: 28
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3523,12 +2995,12 @@ TextureImporter:
       name: BH-CrosBow_135
       rect:
         serializedVersion: 2
-        x: 380
-        y: 163
-        width: 27
-        height: 33
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3545,12 +3017,12 @@ TextureImporter:
       name: BH-CrosBow_136
       rect:
         serializedVersion: 2
-        x: 14
-        y: 109
-        width: 29
-        height: 31
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3567,12 +3039,12 @@ TextureImporter:
       name: BH-CrosBow_137
       rect:
         serializedVersion: 2
-        x: 87
-        y: 109
-        width: 30
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3589,12 +3061,12 @@ TextureImporter:
       name: BH-CrosBow_138
       rect:
         serializedVersion: 2
-        x: 149
-        y: 110
-        width: 41
-        height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 365
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3611,12 +3083,12 @@ TextureImporter:
       name: BH-CrosBow_139
       rect:
         serializedVersion: 2
-        x: 227
-        y: 110
-        width: 26
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 438
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3633,12 +3105,12 @@ TextureImporter:
       name: BH-CrosBow_140
       rect:
         serializedVersion: 2
-        x: 234
-        y: 123
-        width: 29
-        height: 11
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 511
+        y: 108
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3655,12 +3127,12 @@ TextureImporter:
       name: BH-CrosBow_141
       rect:
         serializedVersion: 2
-        x: 305
-        y: 109
-        width: 27
-        height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 54
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3677,12 +3149,12 @@ TextureImporter:
       name: BH-CrosBow_142
       rect:
         serializedVersion: 2
-        x: 366
-        y: 109
-        width: 42
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3699,12 +3171,12 @@ TextureImporter:
       name: BH-CrosBow_143
       rect:
         serializedVersion: 2
-        x: 442
-        y: 109
-        width: 39
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3721,12 +3193,12 @@ TextureImporter:
       name: BH-CrosBow_144
       rect:
         serializedVersion: 2
-        x: 515
-        y: 109
-        width: 39
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3743,12 +3215,12 @@ TextureImporter:
       name: BH-CrosBow_145
       rect:
         serializedVersion: 2
-        x: 15
-        y: 55
-        width: 27
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3765,12 +3237,12 @@ TextureImporter:
       name: BH-CrosBow_146
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
-        width: 34
-        height: 37
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 292
+        y: 0
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3784,89 +3256,529 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_147
+      name: P_Idle1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 3
-        width: 65
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb996cee9ae733690800000000000000
-      internalID: -7623610475887552065
+      spriteID: d94aa88bcf72cfd418b23385e97c5083
+      internalID: 1368239454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_148
+      name: P_Idle2
       rect:
         serializedVersion: 2
-        x: 156
-        y: 3
-        width: 58
-        height: 36
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 73
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4bf4eb96275e7f380800000000000000
-      internalID: -8937422655930347596
+      spriteID: 7a764d2e9d1266f48b82ef6988c02e02
+      internalID: -1783339118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_149
+      name: P_Idle3
       rect:
         serializedVersion: 2
-        x: 225
-        y: 4
-        width: 33
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 146
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d366f9698c846ac40800000000000000
-      internalID: 5523182019374179901
+      spriteID: da884f9564635094d893d9ca7e5b5ca6
+      internalID: -870067567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BH-CrosBow_150
+      name: P_Idle4
       rect:
         serializedVersion: 2
-        x: 298
-        y: 3
-        width: 37
-        height: 34
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 219
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3cd88923097508f80800000000000000
-      internalID: -8106383052431127101
+      spriteID: fc2985c12d738f74dad746eb34607007
+      internalID: 1304002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad57771c8a32eba4287e3da60bd26695
+      internalID: 527106688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1768040ae7c14b869f4d8d45ddd55
+      internalID: 753665260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d1eb4ebbfdd2f43bc6757ba6536e49
+      internalID: -103601343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Idle8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1566
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085734bee43f684a886a814753ba9cc
+      internalID: -383317336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c186b70b1aac448bad5accdfb0a8f9
+      internalID: 958583453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a2e2b1020005b4ba080aeca98ee86f
+      internalID: -1494522538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcefe4f16d4dd74caa6dd978c8431f7
+      internalID: -323824393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca4d2ab5f72fc46a0848ef9a608b2c
+      internalID: 417697287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7b1c035413a34439b1419a475e2567
+      internalID: 404533506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643065d42f99c9b4b8130bbbda6ab48e
+      internalID: -1982550730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aecbffa376357740920369d915012ab
+      internalID: -469001273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH-CrosBow_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1512
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b3b651d90109409a2077424f0bee5
+      internalID: 1719570020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29c2684f079804d95b85955e3c1215
+      internalID: -956781024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421c7aa028a0fd4a907c9b2e5d133bd
+      internalID: -444436736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd04586fc04b14e989272d9f1ff756
+      internalID: 1623719771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4dda4799b9c234493dc51245e56c19
+      internalID: -1032956777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea5f9d45f1a334a8d7ef21ea8b3461
+      internalID: 454305255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c63005edbf2e84fb97faa4ff743653
+      internalID: -180280410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68877050b0e193c42b00f19936614da4
+      internalID: -1980646540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Run8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1458
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86afdcb28998e5340bf5c47967f6d538
+      internalID: 1940008918
       vertices: []
       indices: 
       edges: []
@@ -3885,8 +3797,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":73.0,"y":54.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":73.0,"y":54.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.3799999952316284,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      BH-CrosBow_10: -323824393
       BH-CrosBow_100: 2139911152130082424
       BH-CrosBow_101: 9029951879061643311
       BH-CrosBow_102: -8266929600815509962
@@ -3897,6 +3810,7 @@ TextureImporter:
       BH-CrosBow_107: 2891806736355188002
       BH-CrosBow_108: -1431404867803169497
       BH-CrosBow_109: -3834621152372392106
+      BH-CrosBow_11: 417697287
       BH-CrosBow_110: -566169141483008651
       BH-CrosBow_111: -1129799918797153529
       BH-CrosBow_112: 5149466516464281118
@@ -3907,6 +3821,7 @@ TextureImporter:
       BH-CrosBow_117: 7343203130485305916
       BH-CrosBow_118: 1266873726159552105
       BH-CrosBow_119: -7107268482877173781
+      BH-CrosBow_12: 404533506
       BH-CrosBow_120: 5339336413718992258
       BH-CrosBow_121: 4133575122111881440
       BH-CrosBow_122: -5471993640089407354
@@ -3917,6 +3832,7 @@ TextureImporter:
       BH-CrosBow_127: -3428052114693805303
       BH-CrosBow_128: -6182599166758829457
       BH-CrosBow_129: -3212957407847940638
+      BH-CrosBow_13: -1982550730
       BH-CrosBow_130: -6389637075496671727
       BH-CrosBow_131: 6198126687466479298
       BH-CrosBow_132: -1316695779285305923
@@ -3927,6 +3843,7 @@ TextureImporter:
       BH-CrosBow_137: -8160192283007048478
       BH-CrosBow_138: 3560007255643197273
       BH-CrosBow_139: 910128614901386900
+      BH-CrosBow_14: -469001273
       BH-CrosBow_140: 2527233960881877773
       BH-CrosBow_141: 4755039304006057866
       BH-CrosBow_142: -2906529325332560307
@@ -3934,10 +3851,7 @@ TextureImporter:
       BH-CrosBow_144: -7440553920219248541
       BH-CrosBow_145: 4030652853956735530
       BH-CrosBow_146: -5894520786700079386
-      BH-CrosBow_147: -7623610475887552065
-      BH-CrosBow_148: -8937422655930347596
-      BH-CrosBow_149: 5523182019374179901
-      BH-CrosBow_150: -8106383052431127101
+      BH-CrosBow_15: 1719570020
       BH-CrosBow_24: 5853262938118217184
       BH-CrosBow_25: 3221114765780527813
       BH-CrosBow_26: 363744974500667276
@@ -3946,13 +3860,6 @@ TextureImporter:
       BH-CrosBow_29: -1358626878325442023
       BH-CrosBow_30: -1709499115977920185
       BH-CrosBow_31: 7683202791079873936
-      BH-CrosBow_32: -9092880201583760956
-      BH-CrosBow_33: -3702944337118725417
-      BH-CrosBow_34: 2878526093015537167
-      BH-CrosBow_35: -3764033743437334185
-      BH-CrosBow_36: -7627346954116627743
-      BH-CrosBow_37: 5785680116975250414
-      BH-CrosBow_38: 1902462817459885522
       BH-CrosBow_39: 5572636080142982570
       BH-CrosBow_40: -4830982773355763120
       BH-CrosBow_41: -5295343527747408273
@@ -3994,6 +3901,7 @@ TextureImporter:
       BH-CrosBow_77: 6104526517012332291
       BH-CrosBow_78: 6210783986114657448
       BH-CrosBow_79: -7056058433540515684
+      BH-CrosBow_8: 958583453
       BH-CrosBow_80: 5756930174814307078
       BH-CrosBow_81: -6234587831973569678
       BH-CrosBow_82: -641824778593813016
@@ -4004,6 +3912,7 @@ TextureImporter:
       BH-CrosBow_87: -1493568777870593179
       BH-CrosBow_88: -8772243020633004117
       BH-CrosBow_89: -8366110852143891744
+      BH-CrosBow_9: -1494522538
       BH-CrosBow_90: -2616165760596177275
       BH-CrosBow_91: -5130314646349607106
       BH-CrosBow_92: -1585729434390311527
@@ -4014,30 +3923,29 @@ TextureImporter:
       BH-CrosBow_97: -7013248587791753456
       BH-CrosBow_98: 3192044873646655082
       BH-CrosBow_99: -1280000082473881712
-      P_Idle1: 4536585280519004551
-      P_Idle2: 1044081822230326407
-      P_Idle3: 6651141834900979144
-      P_Idle4: 2137457755080443611
-      P_Idle5: -2515939670355302226
-      P_Idle6: 6338643482906728456
-      P_Idle7: 5099907831442582649
-      P_Idle8: -3182272273957580097
-      P_Idle_Aim1: -2005048787948829937
-      P_Idle_Aim2: 1611954962779731225
-      P_Idle_Aim3: 523575674631787457
-      P_Idle_Aim4: 2698427469413296231
-      P_Idle_Aim5: 7205866833522263734
-      P_Idle_Aim6: 7561978614551448890
-      P_Idle_Aim7: -7818510554286558953
-      P_Idle_Aim8: -9116777597124632024
-      P_Run1: 6904762930522680795
-      P_Run2: -3664970520776520134
-      P_Run3: -6407807458124240779
-      P_Run4: 3001324217096556918
-      P_Run5: -8767871629915496216
-      P_Run6: 6340827838971464458
-      P_Run7: -6718290588386034182
-      P_Run8: -4332316492234096086
+      P_Fall1: -7627346954116627743
+      P_Fall2: 5785680116975250414
+      P_Fall3: 1902462817459885522
+      P_Idle1: 1368239454
+      P_Idle2: -1783339118
+      P_Idle3: -870067567
+      P_Idle4: 1304002483
+      P_Idle5: 527106688
+      P_Idle6: 753665260
+      P_Idle7: -103601343
+      P_Idle8: -383317336
+      P_Jump1: -9092880201583760956
+      P_Jump2: -3702944337118725417
+      P_Jump3: 2878526093015537167
+      P_Jump4: -3764033743437334185
+      P_Run1: -956781024
+      P_Run2: -444436736
+      P_Run3: 1623719771
+      P_Run4: -1032956777
+      P_Run5: 454305255
+      P_Run6: -180280410
+      P_Run7: -1980646540
+      P_Run8: 1940008918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
