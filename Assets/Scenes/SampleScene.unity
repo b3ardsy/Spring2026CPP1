@@ -1466,8 +1466,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e862e304c6eab894996803eb84549724, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  moveSpeed: 5
-  jumpForce: 5
+  moveSpeed: 10
+  jumpForce: 7
+  animator: {fileID: 1709461672}
 --- !u!61 &1709461671
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1549,13 +1550,14 @@ GameObject:
   - component: {fileID: 2081771604}
   - component: {fileID: 2081771605}
   - component: {fileID: 2081771606}
+  - component: {fileID: 2081771607}
   m_Layer: 0
   m_Name: Sprite_Mario_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2081771602
 SpriteRenderer:
   serializedVersion: 2
@@ -1717,6 +1719,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 5
   jumpForce: 7
+  animator: {fileID: 0}
+--- !u!95 &2081771607
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2081771601}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
